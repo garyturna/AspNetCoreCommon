@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="GarysDinerDB/GarysDinerDB.sqlproj">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>
