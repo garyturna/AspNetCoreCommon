@@ -1,5 +1,6 @@
 <Solution>
-  <Project Path="GarysDinerDB/GarysDinerDB.sqlproj">
+  <Project Path="DataLibrary/DataLibrary.csproj" />
+  <Project Path="GarysDinerDB/GarysDinerDB.sqlproj" Id="90410c09-b119-4111-92ef-cfaba47d1e15">
     <Build />
     <Deploy />
   </Project>
