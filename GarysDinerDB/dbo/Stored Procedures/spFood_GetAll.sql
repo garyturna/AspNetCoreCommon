@@ -1,4 +1,4 @@
-﻿CREATE PROCEDURE [dbo].[spFood_All]
+﻿CREATE PROCEDURE [dbo].[spFood_GetAll]
 AS
 BEGIN
 	SET NOCOUNT ON
