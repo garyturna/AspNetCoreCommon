@@ -37,7 +37,7 @@ namespace DataLibrary.Data
         public Task<int> UpdateOrderName(int orderId, string orderName)
         {
             return _dataAccess.SaveData("dbo.spOrders_UpdateName",
-                                        new { Id = orderId, OrderName = orderName },
+                                        new { Id = orderId, Name = orderName },
                                         _connectionString.SqlConnectionString);
         }
 
